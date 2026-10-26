@@ -71,7 +71,7 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 
 **Data & reliability**
 - Led recovery of a production MSSQL database, tracing its backup files through Docker's overlay filesystem
-- Built **easyMigrate**, a Node.js ETL tool that cleans and migrates credit union financial records with verified reconciliation against source records
+- Built **easyMigrate**, a Node.js ETL tool that cleans and migrates credit union financial records with high reconciliation accuracy
 - Reconciled mobile banker transactions against member records and delivered structured audit reports
 
 **People**
