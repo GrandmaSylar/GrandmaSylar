@@ -40,7 +40,7 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 |---|---|---|
 | [orient Fees Tracker](https://github.com/GrandmaSylar/orient) | School fees tracking app with hardware-bound licensing, MSSQL integration, and auto-update delivery | Electron 43, React 19, TypeScript, MSSQL |
 | [Invitro LIMS](https://invitro-iota.vercel.app) | Laboratory Information Management System: test tracking, appointments, and results processing | Electron 42, React 18, TypeScript, SQLite, Supabase |
-| easyMigrate 🔒 | ETL database migration utility with deduplication logic, shipped as a standalone `.exe` | React, Node.js, Express, T-SQL |
+| easyMigrate 🔒 | ETL migration utility that cleans and deduplicates financial records, shipped as a standalone `.exe` | React, Node.js, Express, T-SQL |
 
 ### Web
 | Project | Description | Stack |
@@ -70,9 +70,9 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 - Designed an automated daily backup system using bash, cron, and Docker container integration
 
 **Data & reliability**
-- Led production MSSQL disaster recovery by tracing backup files through Docker overlay filesystem structures
-- Built **easyMigrate**, a Node.js ETL tool used to clean and migrate credit union financial records at **99.53% reconciliation accuracy**
-- Reconciled 448 mobile banker transactions against 1,792 member records and produced structured audit reports
+- Led recovery of a production MSSQL database, tracing its backup files through Docker's overlay filesystem
+- Built **easyMigrate**, a Node.js ETL tool that cleans and migrates credit union financial records with **99.53% reconciliation accuracy**
+- Reconciled 448 mobile banker transactions against 1,792 member records and delivered structured audit reports
 
 **People**
 - Trained client institution staff on QSS Core Banking software
