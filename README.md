@@ -13,10 +13,8 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 
 ## ⚡ At a Glance
 
-| | |
+| Highlight | Scope |
 |---|---|
-| **99.53%** | reconciliation accuracy on financial records migrated with easyMigrate |
-| **1,792** | member records reconciled against 448 mobile banker transactions |
 | **3 platforms** | web, desktop (Electron), and mobile (React Native) shipped to production |
 | **0 → prod** | end-to-end ownership: code, database, VPS, SSL, DNS, backups |
 
@@ -24,7 +22,7 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 
 ## 🛠 Tech Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) |
@@ -49,6 +47,7 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 |---|---|---|
 | [Concord](https://concord-dun.vercel.app) | Bulk SMS platform: contact management, campaign scheduling, delivery analytics | Next.js 16, React 19, Supabase, Tailwind CSS |
 | [PhiNova](https://phinova.dev) | Company website with headless CMS, email notifications, and dynamic content | Next.js 16, Sanity CMS, Resend, Tailwind CSS |
+| [Tilly's Gallery](https://www.tillygallery.shop) | Online boutique storefront for an Accra fashion and beauty shop: product browsing and filters, wishlist, cart, and WhatsApp checkout | Next.js 15, React 19, TypeScript, Tailwind CSS, Neon Postgres, Cloudinary |
 | [escobar](https://prezz.vercel.app) | Live web app with a design system and UI component library | React 18, TypeScript, Tailwind CSS, Radix UI |
 
 ### Mobile
@@ -84,8 +83,8 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GrandmaSylar&show_icons=true&theme=dark&hide_border=true&count_private=true">
-    <img alt="GrandmaSylar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GrandmaSylar&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GrandmaSylar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=stars">
+    <img alt="GrandmaSylar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GrandmaSylar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=stars" height="160" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandmaSylar&layout=compact&theme=dark&hide_border=true&langs_count=8">
