@@ -2,8 +2,12 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "*/10 * * * *"
   workflow_dispatch:
+
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -57,4 +61,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
+          git pull --rebase origin main
           git push
