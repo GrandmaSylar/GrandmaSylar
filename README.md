@@ -83,12 +83,12 @@ Currently a National Service Personnel at the **Ghana Cooperative Credit Unions 
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GrandmaSylar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=stars">
-    <img alt="GrandmaSylar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GrandmaSylar&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide=stars" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img alt="GrandmaSylar's GitHub stats" src="./profile/stats-light.svg" height="160" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandmaSylar&layout=compact&theme=dark&hide_border=true&langs_count=8">
-    <img alt="GrandmaSylar's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandmaSylar&layout=compact&theme=default&hide_border=true&langs_count=8" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img alt="GrandmaSylar's top languages" src="./profile/top-langs-light.svg" height="160" />
   </picture>
 </p>
 
